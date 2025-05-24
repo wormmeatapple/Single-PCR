@@ -16,6 +16,14 @@
 
 <p>Very nice! We now have a hole for the PCR tube to go in, a hole for the thermistor, slots for the heaters and heatsinks to cool down easier. I'm not sure how well this'll be CNCed as I've never ordered a CNC part before but hopefully nothing breaks.</p>
 
-> Time taken: about **45 mins**  
+> Time taken: about **30 mins**  
 > - Modelling  
 > - Researching parts
+
+## Still May 24th
+
+<p> Spent a ton of time researching and compiling parts. While not very technical, it's time that's very much needed. I also now know the specs of everything, so I can start writing code to control it all!</p>
+
+> Time taken: **1 hour**
+> - Compiling BOM
+> - Researched all parts
