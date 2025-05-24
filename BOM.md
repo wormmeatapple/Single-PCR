@@ -16,3 +16,7 @@
 <br> **10.60** + **0 shipping** <br> **10.60 total*8 <br>
 # Esp control board
 <br> **Free! I have some**
+
+
+[table (1).csv](https://github.com/user-attachments/files/20422157/table.1.csv)
+<p>I wasn't sure what was meant by csv table, I hope this is okay...</p>
