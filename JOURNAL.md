@@ -35,3 +35,29 @@
 <p>First time ever using a pcb designer, but I'm slowly making process on the wiring schematic. I'm making it on easy-ada designer and since it technically isn't really a pcb alot of the parts I need aren't there.</p>
 <p>This could maybe be a pcb? It'd be kinda small but it'd made wiring everything slightly easier? Something for me to think about.</p>
 <p>Just as I was about to take a screenshot, website froze up and erased my progress. -__- I can't prove it either which sucks. Ah well, an hour wasted. Time for lunch.</p>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/b33ebf33-7667-4e2e-b76a-817bc692a982)
+
+<p>Screenshotting more frequently this time.</p>
+
+![image](https://github.com/user-attachments/assets/d2600720-afca-4a2b-a599-02bedaee6edc)
+
+<p>Fans and thermistor circuit all wired up, now just the heaters.</p>
+
+![image](https://github.com/user-attachments/assets/43ed2df9-5c4e-4e4d-84af-f810dcfb3b5d)
+
+<p>Done! I'm sure I could of done it better, faster and with the proper parts, but for the first time designing a circuit like this I think I did alright. I'll send it into the highway chat and see if anyone finds an issue in it.</p>
+<p>As soon as I wrote that I looked back on it and wanted to make a couple of changes, one second...</p>
+
+![image](https://github.com/user-attachments/assets/fd2d1dfa-7e6c-4d29-92c5-ef26e763ff6b)
+
+<p>Much nicer. The old format made sense, but for someone who isn't as well versed in circuitry this is way easier to follow</p>
+
+>Time taken **1h 57m**
+> -Wired up all components
+> -Lost an hour to a crash :sob:
+
+
+
