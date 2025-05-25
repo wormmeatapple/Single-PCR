@@ -27,3 +27,11 @@
 > Time taken: **1 hour**
 > - Compiling BOM
 > - Researched all parts
+
+## May 25th
+
+>Started designing a wiring circuit
+
+<p>First time ever using a pcb designer, but I'm slowly making process on the wiring schematic. I'm making it on easy-ada designer and since it technically isn't really a pcb alot of the parts I need aren't there.</p>
+<p>This could maybe be a pcb? It'd be kinda small but it'd made wiring everything slightly easier? Something for me to think about.</p>
+<p>Just as I was about to take a screenshot, website froze up and erased my progress. -__- I can't prove it either which sucks. Ah well, an hour wasted. Time for lunch.</p>
