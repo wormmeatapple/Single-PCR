@@ -1,3 +1,16 @@
+---
+title: "Single-PCR"
+author: "wormmeatapple"
+description: "A tiny PCR machine designed to be cheap and easy"
+created_at: "24th/5/2025"
+---
+
+
+
+
+
+
+
 ## May 24th
 
 > Created repo  
