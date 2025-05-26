@@ -129,6 +129,17 @@ created_at: "24th/5/2025"
 
 <p>That's annoying. I've just spent ages (futilely) trying to get the uploader to show in the tool dropdown, but I just checked the size of chartly and it's more than the flash size. Awesome. I guess I'll have the board act as an AP and a STA so that it has wifi access. Booooo.</p>
 
+<p>I'm deciding to temporarily put the graphing on hold and focus on the actual functionality of turning the heater and fan on and off to reach a desired temp.</p>
+
+<p>Now that I'm making it, why is this thing website operated? It can't keep a substantial memory so it wouldn't be able to store preset cycles decided by the user or anything like that. I'll keep the webserver stuff for now, but when it's done it'll probably just be used to start the cycle and read the temp 👎</p>
+
+<p>Actually no, the cycles will stay the same, but depending on the GC content of the dna being PCRed, denaturation has to change. So instead it'll be like a form where you input how long the denature and extension steps have to be. Honestly such a relief, I thought all my webserver shenanigans would be a waste.</p>
+
+<p>Okay I've actually figured out a procedure that actually makes sense. When you boot up the machine you follow these steps. 1. Connect to the access point 2. Enter in your PCR settings like number of cycles, length of each phase, temp of each phase etc 3. Hit start 4. Watch the temp graph</p>
+
+<p>I've added in a function to control the heat simply by polling the therm, if lower than the ideal heat turn on heaters, if higher turn on fans. Than I put it into the loop connected to an if statement that turns on when you submit the form of variables. All the durations and ideal temps are governed by the variables that you chose from the form. !!! It should all be good and working! Just need to fix up the html.</p>
+
+<p>Blank white screen on my arduino ide. Worrying.</p>
 
 
 
