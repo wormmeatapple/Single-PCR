@@ -137,10 +137,25 @@ created_at: "24th/5/2025"
 
 <p>Okay I've actually figured out a procedure that actually makes sense. When you boot up the machine you follow these steps. 1. Connect to the access point 2. Enter in your PCR settings like number of cycles, length of each phase, temp of each phase etc 3. Hit start 4. Watch the temp graph</p>
 
-<p>I've added in a function to control the heat simply by polling the therm, if lower than the ideal heat turn on heaters, if higher turn on fans. Than I put it into the loop connected to an if statement that turns on when you submit the form of variables. All the durations and ideal temps are governed by the variables that you chose from the form. !!! It should all be good and working! Just need to fix up the html.</p>
+![image](https://github.com/user-attachments/assets/8609dbec-ca75-4a0f-b461-07f449c13abf)
+
+<p>I've added in a function to control the heat simply by polling the therm, if lower than the ideal heat turn on heaters, if higher turn on fans. Than I put it into the loop connected to an if statement that turns on when you submit the form of variables. All the durations and ideal temps are governed by the variables that you chose from the form. !!! It should all be good and working! Just need to fix up the html. Also sidenote I don't know the proper way to do it but why can't I just have this function be void. If it has any arguements has to return something like bruh.</p>
 
 <p>Blank white screen on my arduino ide. Worrying.</p>
 
+<p>Was able to press save despite the blank screen of nothing. Maybe I should make a backup...</p>
+
+![image](https://github.com/user-attachments/assets/53604f30-c064-444c-89c0-ec0816cb4fd2)
+
+<p>Pretty simple cycle mechanic. I do wonder if the delays in the cycle() function will stop the handleclient() function from working. I guess we'll find out eventually</p>
+
+<p>Tested out everything and it seems to work. Forms send info, info gets converted to variables, variables control cycle, cycle controls pins. I even got the pins to light up an led, so it should be all good to go! I do wonder if there's a cheaper way to get my heating block CNCed though. I'll ask highway.</p>
+
+> Time taken
+> - **3h 2m**
+> - Rethought of project design
+> - User data converted to cycle settings
+> - cycle settings control pins
 
 
 
