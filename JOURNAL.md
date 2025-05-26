@@ -111,6 +111,25 @@ created_at: "24th/5/2025"
 > - AJAX to continously update page with temperature data
 > - Started adding fan/heater control
 
+## May 26th
+
+<p>Just got three things left to do before I submit,</p>
+
+> - Add graphing while offline
+> - Add a way to specify cycles that the controller reads and then actually does
+> - Overlay the temp graph and the cycle graph (probably easiest?)
+
+<p>Gonna work on the graphing first. In my research I kept seeing people suggest the Chartly.JS library, but this doesn't work while offline. Hm</p>
+
+<p>I think I've found a solution. I'm gonna install LittleFS on my board and than just store the js libary on my esp? I hope</p>
+
+<p>Why won't the tool show up in the tool dropdown?</p>
+
+![image](https://github.com/user-attachments/assets/15c306af-9721-4779-bd6f-4abb44bb9b99)
+
+<p>That's annoying. I've just spent ages (futilely) trying to get the uploader to show in the tool dropdown, but I just checked the size of chartly and it's more than the flash size. Awesome. I guess I'll have the board act as an AP and a STA so that it has wifi access. Booooo.</p>
+
+
 
 
 
