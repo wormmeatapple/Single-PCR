@@ -6,8 +6,6 @@
 <br> **3.51** + **0 shipping!!** <br> **3.51 total** <br>
 # 12 volt 1 amp wall mounted DC power supply 
 <br> **5.08** + **0 shipping!!** <br> **5.08 total** <br>
-# Solid state relay 
-<br> **5.79** + **O shipping!!** <br> **5.79 total** <br>
 # Thermal paste 
 <br> **4.29** + **0 shipping** <br> **4.29 total** <br>
 # Transitors (12v) 
