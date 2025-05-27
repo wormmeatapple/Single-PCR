@@ -18,3 +18,10 @@ For Hack Club's Highway event!
 |ESP control board|Read temperature data, control transistors, broadcast control website to user.|My cupboard|Free!I have some|0.00|
 |**Total**||| |**125.80 AUS**/**80.60 USD**|
 
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/997a0c95-cd43-40da-928f-4e63ec8a9f26)
+
+
