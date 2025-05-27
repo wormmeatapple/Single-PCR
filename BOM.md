@@ -1,5 +1,8 @@
+> **Total = 81.13 AMERICAN DOLLARS**
+> - 125.80 AUS
+
 # Aluminium heating block 
-<br> **39.41** + **22.82 shipping** <br> **62.23 total** <br>
+<br> **60.56** + **27.66 shipping** <br> **88.22 total** If anyone knows any cheaper cnc options please contact me :sob:<br>
 # Heating element 2pcs 
 <br> **2.92** + **9.36 shipping** <br> **12.28 total** <br>
 # 10k NTC Thermistor 10pcs 
@@ -11,10 +14,14 @@
 # Transitors (12v) 
 <br>  **1.82** + **0 shipping** <br> **1.82 total** <br>
 # DC Fans 2pcs
-<br> **10.60** + **0 shipping** <br> **10.60 total*8 <br>
+<br> **10.60** + **0 shipping** <br> **10.60 total** <br>
 # Esp control board
-<br> **Free! I have some**
+<br> **Free! I have some** 
 
+<br>
 
-[table (1).csv](https://github.com/user-attachments/files/20422157/table.1.csv)
+<p>Prices in BOM in AUS</p>
+
+[BOM.csv](https://github.com/user-attachments/files/20453770/BOM.csv)
+
 <p>I wasn't sure what was meant by csv table, I hope this is okay...</p>
