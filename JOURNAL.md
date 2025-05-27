@@ -3,6 +3,7 @@ title: "Single-PCR"
 author: "wormmeatapple"
 description: "A tiny PCR machine designed to be cheap and easy"
 created_at: "24th/5/2025"
+time taken: 9 hours
 ---
 
 
@@ -157,6 +158,7 @@ created_at: "24th/5/2025"
 > - User data converted to cycle settings
 > - cycle settings control pins
 
+<p>Gonna submit it today, I'm scared that I'll be missing something really simple and have to wait a week before submitting again. I definitly could have made this quicker, but I always choose to do new things for these events, I suppose that's the point though.</p>
 
 
 
