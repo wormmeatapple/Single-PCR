@@ -24,4 +24,4 @@ For Hack Club's Highway event!
 
 ![image](https://github.com/user-attachments/assets/997a0c95-cd43-40da-928f-4e63ec8a9f26)
 
-
+![wiringschematic](https://github.com/user-attachments/assets/7b5fcb68-37f9-4ab0-ac1b-da808168ffed)
