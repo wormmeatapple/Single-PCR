@@ -160,5 +160,15 @@ time taken: 9 hours
 
 <p>Gonna submit it today, I'm scared that I'll be missing something really simple and have to wait a week before submitting again. I definitly could have made this quicker, but I always choose to do new things for these events, I suppose that's the point though.</p>
 
+## May 29th
+
+<p>Got some feedback from @alexren, so I thought I'd talk a little about how a typical PCR machine works in detail (I'll add a simplier version to the readme).</p>
+
+<p>If you've read the readme of this project, you know a PCR machine's main goal is to just change the temperature of a little chemical reaction in a repeating nature. The thousand dollar ones found in universities and real labs use peltier modules, which is essentially an electric heat pump.</p>
+
+![image](https://github.com/user-attachments/assets/4655d614-4ab1-453d-9481-7ef53ff2edc8)
+
+<p>If you power it, one side gets cold and the other gets hot. Flip the polarities and the hot and cold sides switch. So, a good PCR machine has your standard heating block to allow smooth temp distribution, and then some high quality peltiers stuck to it, allowing you to switch between hot and cold preeeety quick. Now I'm not a university or million dollar biotech lab, so I've gotta use a different method. I have to do heating through a ceramic resistance based heater, and cooling through a fan and heatsink. This works fine, if slightly slower to reach the appropriate temps, because the temperature PCR occurs at is pretty warm anyway. All the fan is doing is reversing the heating process essentially. So my heater gets the heat block (and thus the PCR tube) hot, and then the fan cools it back down quicker than ambient heat loss would. There is technically one thing about a regular PCR machine that I can't emulate. Usually after a PCR reaction has finished cycling and done the final extension step, the peltiers cool it all the way down to around 4c. This is just to protect the dna since it's a pretty delicate molecule, and transforming a broken piece of dna into something is a bad idea. To combat this, if you use Single-PCR, just be there when the reaction finishes to move your dna into the freezer 👍.</p>
+
 
 
